@@ -6,7 +6,6 @@
 
 A Python tool to generate mineralogical maps from EDS (Energy Dispersive Spectroscopy) element data.
 
-[View Demo](#) · [Report Bug](#) · [Request Feature](#)
 
 ![Contributors](https://img.shields.io/badge/contributors-1-blue)
 ![Forks](https://img.shields.io/badge/forks-0-blue)
