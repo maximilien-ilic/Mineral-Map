@@ -107,9 +107,7 @@ Input files are semicolon-separated `.txt` files where each row is a pixel row a
 - [x] Normalize EDS counts to atomic proportions
 - [x] Classify pixels by euclidean distance
 - [x] Generate color-coded mineralogical map
-- [ ] Export map as high-resolution image
-- [ ] Add interactive visualization
-- [ ] Support custom mineral databases
+
 
 ---
 
@@ -127,9 +125,7 @@ Distributed under the MIT License.
 
 ## Contact
 
-Maxgoat — [LinkedIn](#) — email@example.com
-
-Project link : [https://github.com/username/eds-mineralogical-mapping](#)
+Maxgoat — [LinkedIn](https://www.linkedin.com/in/maximilien-ilic/) — maximilien.ilic@gmail.com
 
 ---
 
