@@ -39,6 +39,8 @@ This project takes 11 element maps acquired by EDS (Si, Ti, Al, Fe, Mn, Mg, Ca, 
 
 The classification works by normalizing raw EDS counts into atomic proportions, then finding the closest match to known mineral compositions using euclidean distance.
 
+![Mineralogical Map](map-mineral.png)
+
 **Minerals identified :**
 - Glaucophane, Omphacite, Epidote, Garnet, Quartz, Muscovite, Rutile, Sphene, Hematite
 
