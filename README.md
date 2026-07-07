@@ -126,7 +126,7 @@ Distributed under the MIT License.
 
 ## Contact
 
-Maxgoat — [LinkedIn](https://www.linkedin.com/in/maximilien-ilic/) — maximilien.ilic@gmail.com
+Maximilien Ilic — [LinkedIn](https://www.linkedin.com/in/maximilien-ilic/) — maximilien.ilic@gmail.com
 
 ---
 
